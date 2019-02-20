@@ -1,0 +1,22 @@
+{
+    "name": "ari/cc",
+    "description": "Shared model for all Laravel applications",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ariandi Nugraha",
+            "email": "dbduabelas@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "laravelcollective/html": "^5.5"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ari\\cc\\TestServiceProvider"
+            ]
+        }
+    },
+}

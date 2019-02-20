@@ -1,0 +1,14 @@
+{
+    "name": "ari/model",
+    "description": "Shared model for all Laravel applications",
+    "type": "library",
+    "license": "public",
+    "authors": [
+        {
+            "name": "Ariandi Nugraha",
+            "email": "dbduabelas@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
